@@ -1,2 +1,2 @@
 # maryamdevops
-This devops demo class about git
+This is devops demo class about git
